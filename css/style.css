@@ -197,7 +197,7 @@ header .nav-bar ul li a:focus {
     .home-page .container {
         flex-direction: column-reverse;
         gap: 30px;
-        margin-top: 30px;
+        padding-top: 30px;
     }
 }
 .home-page .container > div {
